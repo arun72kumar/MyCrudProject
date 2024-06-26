@@ -1,0 +1,110 @@
+{
+  "users": [
+    {
+      "id": "f2f7",
+      "name": "ravi",
+      "email": "ravi@test.com",
+      "password": "ravi",
+      "cpassword": "ravi",
+      "mobile": "2345678987"
+    },
+    {
+      "id": "856e",
+      "name": "admin",
+      "email": "admin@test.com",
+      "password": "admin",
+      "cpassword": "admin",
+      "mobile": "2345678976"
+    },
+    {
+      "id": "b16b",
+      "name": "sachin",
+      "email": "sachin@test.com",
+      "password": "sachin",
+      "cpassword": "sachin",
+      "mobile": "4567876545"
+    },
+    {
+      "id": "d735",
+      "name": "sachin",
+      "email": "sachin@test.com",
+      "password": "sachin",
+      "cpassword": "sachin",
+      "mobile": "7898765456"
+    }
+  ],
+  "faculties": [
+    {
+      "record": {
+        "name": "ravi kumar",
+        "email": "ravish@test.com",
+        "mobile": "2938748374",
+        "subject": "Computer Organistion",
+        "batch": "10-12",
+        "qualification": "M.TECH",
+        "branch": "engineering"
+      },
+      "id": "2e88"
+    },
+    {
+      "id": "de06",
+      "record": {
+        "name": "seema",
+        "email": "seema@yahoo.in",
+        "mobile": "2938748374",
+        "subject": "data structure",
+        "batch": "8-10",
+        "qualification": "MSC",
+        "branch": "Information technology"
+      }
+    },
+    {
+      "record": {
+        "name": "pawan",
+        "email": "pawan@t.com",
+        "mobile": "2938748374",
+        "subject": "c++",
+        "batch": "2-3",
+        "qualification": "MCA",
+        "branch": "computer science"
+      },
+      "id": "63cf"
+    },
+    {
+      "id": "d870",
+      "record": {
+        "name": "Kamal",
+        "email": "kamal@test.com",
+        "mobile": "2938748374",
+        "subject": "data structure",
+        "batch": "10-12",
+        "qualification": "MCA",
+        "branch": "Information technology"
+      }
+    },
+    {
+      "id": "113c",
+      "record": {
+        "name": "kavita",
+        "email": "kavita@test.com",
+        "mobile": "2938748374",
+        "subject": "c++",
+        "batch": "3-5",
+        "qualification": "M.TECH",
+        "branch": "engineering"
+      }
+    },
+    {
+      "id": "81c9",
+      "record": {
+        "name": "aniket",
+        "email": "aniket@rediffmail.com",
+        "mobile": "234324",
+        "subject": "R language",
+        "batch": "6-7",
+        "qualification": "MSC",
+        "branch": "computer science"
+      }
+    }
+  ]
+}
